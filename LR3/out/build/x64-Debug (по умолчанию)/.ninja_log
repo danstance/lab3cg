@@ -1,0 +1,13 @@
+# ninja log v5
+1	764	6441652140851214	CMakeFiles/main.dir/glad.c.obj	57a8a473fc3ed393
+20	870	6441652141908621	CMakeFiles/main.dir/Camera.cpp.obj	2960bc902dc11065
+1100	1496	6441652146765399	../../../bin/main.exe	36a76071cb28c0e8
+8	966	6441652142865830	CMakeFiles/main.dir/ShaderProgram.cpp.obj	c3b07a4178e27ac1
+14	1100	6441652144202251	CMakeFiles/main.dir/main.cpp.obj	ba7272301419f7bb
+26	1024	6441652143444273	CMakeFiles/main.dir/Texture.cpp.obj	e5b5db5b516b7160
+1	489	6453979332478493	CMakeFiles/main.dir/glad.c.obj	57a8a473fc3ed393
+14	575	6453979333346176	CMakeFiles/main.dir/Camera.cpp.obj	2960bc902dc11065
+20	685	6453979334423273	CMakeFiles/main.dir/ShaderProgram.cpp.obj	c3b07a4178e27ac1
+26	744	6453979335021679	CMakeFiles/main.dir/Texture.cpp.obj	e5b5db5b516b7160
+8	823	6453979335819539	CMakeFiles/main.dir/main.cpp.obj	ba7272301419f7bb
+823	1199	6453979338213145	../../../bin/main.exe	36a76071cb28c0e8
